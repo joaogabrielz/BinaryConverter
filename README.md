@@ -1,8 +1,8 @@
-# BinaryConverter <img src="https://i.gifer.com/QYHd.gif">
+# BinaryConverter <img align="center" height="100" width="150" src="https://cdn-wordpress-info.futurelearn.com/info/wp-content/uploads/binary_to_denary-1.gif">
 
 ## Projeto Conversor de Decimal pra Binario e vice-versa👈 
 
-<img alt="print projeto" height="250" width="300" src="print.png">
+<img alt="print projeto" height="300" width="280" src="print.png">
 
 ## Click para ver: <a href='https://joaogabrielz.github.io/BinaryConverter'>Deploy</a> 
 
